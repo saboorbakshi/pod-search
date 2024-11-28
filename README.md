@@ -1,4 +1,4 @@
-### PodSearch
+# PodSearch
 
 Semantic search for podcasts.
 

@@ -2,4 +2,4 @@
 
 Semantic search for podcasts.
 
-https://github.com/user-attachments/assets/87297fb6-47ad-4ad7-837c-4c5a97c6b038
+https://github.com/user-attachments/assets/40b767cd-b9c7-4c6c-b373-f59d0cf970de
